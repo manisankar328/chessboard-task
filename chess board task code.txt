@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="chess.css">
+    <title>chessboard</title>
+
+</head>
+<body>
+    <div>
+     <img src="b.jpg" width="169px" height="110px"> 
+     <img src="w.jpg" width="169px" height="110px">
+     <img src="b.jpg" width="169px" height="110px"> 
+     <img src="w.jpg" width="169px" height="110px">
+     <img src="b.jpg" width="169px" height="110px"> 
+     <img src="w.jpg" width="169px" height="110px">
+     <img src="b.jpg" width="169px" height="110px"> 
+     <img src="w.jpg" width="169px" height="110px">
+    </div>
+    <div>
+        <img src="w.jpg" width="169px" height="110px">
+        <img src="b.jpg" width="169px" height="110px">
+        <img src="w.jpg" width="169px" height="110px">
+        <img src="b.jpg" width="169px" height="110px">
+        <img src="w.jpg" width="169px" height="110px">
+        <img src="b.jpg" width="169px" height="110px">
+        <img src="w.jpg" width="169px" height="110px">
+        <img src="b.jpg" width="169px" height="110px">
+
+    </div>
+    <div>
+        <img src="b.jpg" width="169px" height="110px"> 
+        <img src="w.jpg" width="169px" height="110px">
+        <img src="b.jpg" width="169px" height="110px"> 
+        <img src="w.jpg" width="169px" height="110px">
+        <img src="b.jpg" width="169px" height="110px"> 
+        <img src="w.jpg" width="169px" height="110px">
+        <img src="b.jpg" width="169px" height="110px"> 
+        <img src="w.jpg" width="169px" height="110px">
+       </div>
+       <div>
+        <img src="w.jpg" width="169px" height="110px">
+        <img src="b.jpg" width="169px" height="110px">
+        <img src="w.jpg" width="169px" height="110px">
+        <img src="b.jpg" width="169px" height="110px">
+        <img src="w.jpg" width="169px" height="110px">
+        <img src="b.jpg" width="169px" height="110px">
+        <img src="w.jpg" width="169px" height="110px">
+        <img src="b.jpg" width="169px" height="110px">
+
+    </div>
+    <div>
+        <img src="b.jpg" width="169px" height="110px"> 
+        <img src="w.jpg" width="169px" height="110px">
+        <img src="b.jpg" width="169px" height="110px"> 
+        <img src="w.jpg" width="169px" height="110px">
+        <img src="b.jpg" width="169px" height="110px"> 
+        <img src="w.jpg" width="169px" height="110px">
+        <img src="b.jpg" width="169px" height="110px"> 
+        <img src="w.jpg" width="169px" height="110px">
+       </div>
+       <div>
+        <img src="w.jpg" width="169px" height="110px">
+        <img src="b.jpg" width="169px" height="110px">
+        <img src="w.jpg" width="169px" height="110px">
+        <img src="b.jpg" width="169px" height="110px">
+        <img src="w.jpg" width="169px" height="110px">
+        <img src="b.jpg" width="169px" height="110px">
+        <img src="w.jpg" width="169px" height="110px">
+        <img src="b.jpg" width="169px" height="110px">
+
+    </div>
+    </body>
+</html>
